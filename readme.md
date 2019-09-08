@@ -21,11 +21,10 @@ Create a Database & Import this  sports_news_db24.sql File and you are all set.
 
 ## Test this Portal || Login Credential 
 ----------------------------------------
-* http://raajkhan.com/sports-news-24/
+* News Portal: http://raajkhan.com/sports-news-24/
+* News Portal Admin Panel: http://raajkhan.com/sports-news-24/user-admin
 * Email: demo@demo.com
 * Password: 1
-* You Can Change Password.
-
         
        
        
