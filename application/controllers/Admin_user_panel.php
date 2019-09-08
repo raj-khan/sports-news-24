@@ -46,7 +46,7 @@ class Admin_user_panel extends CI_Controller
             $session_data['login_message'] = "Invalid Login";
             $this->session->set_userdata($session_data);
 
-            redirect(admin);
+            redirect(user-admin);
         }
     }
 }
